@@ -1,0 +1,4 @@
+city= "@5773"  #bangkok
+waqi_token = "" http://aqicn.org/data-platform/token/
+line_token = "" https://notify-bot.line.me/en/
+
